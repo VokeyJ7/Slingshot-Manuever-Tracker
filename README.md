@@ -47,8 +47,8 @@ It combines **physics**, **vector math**, **graph plotting**, and **real-time an
 
 ```bash
 SlingshotSim/
-├── GravityAssistPart1copy.py      # Core physics, animation, and plotting
-├── input detection part1.py       # Simple UI and input capture
+├── simulation.py      # Core physics, animation, and plotting
+├── input_detection part1.py       # Simple UI and input capture
 ├── planetillustpart2.py           # Standalone planet + vector animator
 ├── lastSimData.txt                # Output file with velocity/angle results
 ├── Plot1.png                      # Velocity curve graph (Matplotlib)
