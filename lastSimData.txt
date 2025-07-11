@@ -1,0 +1,7 @@
+Entry Velocity:  4556.00 m/s
+Entry Angle:  45.00 deg
+Planet Velocity:  456.00 m/s
+
+Exit Velocity:  4941.51 m/s
+Vector form =  4133.58i +  3221.58j
+Exit angle:  52.07 deg
